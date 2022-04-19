@@ -9,11 +9,11 @@ Wider Screen:
 
 Smaller Mobile Screen:
 
-<img width="1337" alt="Screen Shot 2022-04-18 at 11 18 00 PM" src="https://user-images.githubusercontent.com/101599204/163919516-7428f1ae-e943-4eed-ba7e-850236579998.png">
+<img width="194" alt="Screen Shot 2022-04-18 at 11 21 18 PM" src="https://user-images.githubusercontent.com/101599204/163919695-d5a2cd27-fbdc-46ca-977b-cc58d290c8e9.png">
 
-<img width="1337" alt="Screen Shot 2022-04-18 at 11 18 00 PM" src="https://user-images.githubusercontent.com/101599204/163919551-74062296-f571-4401-a965-55640d1a16f4.png">
+<img width="195" alt="Screen Shot 2022-04-18 at 11 21 44 PM" src="https://user-images.githubusercontent.com/101599204/163919723-6628b11e-41bb-4a4e-806c-58709db0868c.png">
 
-<img width="1337" alt="Screen Shot 2022-04-18 at 11 18 00 PM" src="https://user-images.githubusercontent.com/101599204/163919583-5c1322f5-b580-41a4-b7e0-10ebbf24cb67.png">
+<img width="195" alt="Screen Shot 2022-04-18 at 11 22 04 PM" src="https://user-images.githubusercontent.com/101599204/163919734-cfa1d80f-c01f-40ad-823f-2afa2a4cd62b.png">
 
 
 Project from Colt Steele's Web Development Boot Camp on Udemy
